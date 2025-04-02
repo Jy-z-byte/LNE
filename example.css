@@ -1,0 +1,372 @@
+.polygon-generator-icon {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    width: 1440px;
+    height: 2914px;
+    object-fit: contain;
+}
+.indexhtml-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #010101;
+    width: 1440px;
+    height: 100px;
+}
+.pic-1-icon {
+    position: absolute;
+    top: 4px;
+    left: 21px;
+    width: 152px;
+    height: 86px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.research-background {
+    position: absolute;
+    top: 300px;
+    left: 108px;
+    font-size: 32px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    width: 339px;
+    height: 60px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.research-objectives {
+    position: absolute;
+    top: 1482px;
+    left: 108px;
+    font-size: 32px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    width: 339px;
+    height: 60px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.research-data {
+    position: absolute;
+    top: 1881px;
+    left: 108px;
+    font-size: 32px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    width: 339px;
+    height: 60px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.research-methodology {
+    position: absolute;
+    top: 2340px;
+    left: 108px;
+    font-size: 32px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    width: 339px;
+    height: 60px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.a-night-economy-trends-in-lon {
+    margin: 0;
+}
+.a-night-economy-container1 {
+    width: 100%;
+}
+.a-night-economy-container {
+    position: absolute;
+    top: 383px;
+    left: 124px;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 455px;
+    height: 453px;
+    font-family: 'Roboto Slab';
+}
+.b-crime-trends-container {
+    position: absolute;
+    top: 942px;
+    left: 1026px;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 327px;
+    height: 469px;
+    font-family: 'Roboto Slab';
+}
+.crimetrends-icon {
+    position: absolute;
+    top: 927px;
+    left: 108px;
+    width: 850px;
+    height: 500px;
+    object-fit: cover;
+}
+.venuetrend-icon {
+    position: absolute;
+    top: 291px;
+    left: 670px;
+    width: 700px;
+    height: 550px;
+    object-fit: cover;
+}
+.londons-nighttime-economy {
+    position: absolute;
+    top: 133px;
+    left: 96px;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1262px;
+    height: 98px;
+}
+.understand-how-the {
+    margin-bottom: 0px;
+}
+.understand-how-the-intensity-o {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 32px;
+}
+.this-project-examines-container {
+    position: absolute;
+    top: 1542px;
+    left: 124px;
+    font-family: 'Roboto Slab';
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 1229px;
+    height: 282px;
+}
+.the-data-used-container {
+    position: absolute;
+    top: 1938px;
+    left: 124px;
+    font-family: 'Roboto Slab';
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 727px;
+    height: 404px;
+}
+.to-develop-the-container {
+    position: absolute;
+    top: 2405px;
+    left: 124px;
+    font-family: 'Roboto Slab';
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 733px;
+    height: 328px;
+}
+.dataandmetho-icon {
+    position: absolute;
+    top: 1897px;
+    left: 916px;
+    width: 467px;
+    height: 835px;
+    object-fit: cover;
+}
+.indexhtml-item {
+    position: absolute;
+    top: 2900px;
+    left: 0px;
+    background-color: #010101;
+    width: 1440px;
+    height: 100px;
+}
+.a-project-by-container {
+    position: absolute;
+    top: 2912px;
+    left: 351px;
+    font-size: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 737px;
+    height: 75px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 132px;
+    height: 40px;
+}
+.back-to-top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 132px;
+    height: 40px;
+}
+.vector-parent {
+    position: absolute;
+    top: 2840px;
+    left: 1208px;
+    width: 132px;
+    height: 40px;
+    cursor: pointer;
+    text-align: center;
+    color: #f0f5ff;
+}
+.vitality-equity {
+    position: absolute;
+    top: 27px;
+    left: 670px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #eceef9;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 245px;
+    height: 51px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    top: 27px;
+    left: 546px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #eceef9;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 109px;
+    height: 51px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.about {
+    position: absolute;
+    top: 27px;
+    left: 1128px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #eceef9;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 109px;
+    height: 51px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.safety-risk {
+    position: absolute;
+    top: 27px;
+    left: 918px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #eceef9;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 196px;
+    height: 51px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.feedback {
+    position: relative;
+    line-height: 100%;
+    text-shadow: 0.8px 0 0 #5b3a81, 0 0.8px 0 #5b3a81, -0.8px 0 0 #5b3a81, 0 -0.8px 0 #5b3a81;
+}
+.button {
+    border-radius: 999px;
+    background-color: #2b2e4a;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 11px 18px;
+}
+.property-1default {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 187px;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.small-button {
+    position: absolute;
+    top: 1px;
+    left: 1218px;
+    border-radius: 5px;
+    width: 209px;
+    height: 82px;
+    overflow: hidden;
+    color: #fefcff;
+    font-family: 'Roboto Slab';
+}
+.button1 {
+    position: absolute;
+    top: 795px;
+    left: 1135px;
+    border-radius: 999px;
+    background-color: #2b2e4a;
+    width: 235px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 11px 18px;
+    box-sizing: border-box;
+    color: #fefcff;
+    font-family: 'Roboto Slab';
+}
+.button2 {
+    position: absolute;
+    top: 1381px;
+    left: 108px;
+    border-radius: 999px;
+    background-color: #2b2e4a;
+    width: 235px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 11px 18px;
+    box-sizing: border-box;
+    color: #fefcff;
+    font-family: 'Roboto Slab';
+}
+.indexhtml {
+    width: 100%;
+    position: relative;
+    background-color: #05142c;
+    height: 3000px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Roboto Condensed';
+}
+

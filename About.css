@@ -1,0 +1,334 @@
+.polygon-generator-icon {
+  	position: absolute;
+  	top: 83px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 2174px;
+  	object-fit: contain;
+}
+.abouthtml-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #010101;
+  	width: 1440px;
+  	height: 100px;
+}
+.pic-2-icon {
+  	position: absolute;
+  	top: 4px;
+  	left: 21px;
+  	width: 152px;
+  	height: 86px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.vitality-equity {
+  	position: absolute;
+  	top: 27px;
+  	left: 670px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 245px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.home {
+  	position: absolute;
+  	top: 27px;
+  	left: 546px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.about {
+  	position: absolute;
+  	top: 27px;
+  	left: 1128px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.safety-risk {
+  	position: absolute;
+  	top: 27px;
+  	left: 918px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 196px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.feedback {
+  	position: relative;
+  	line-height: 100%;
+  	text-shadow: 0.8px 0 0 #5b3a81, 0 0.8px 0 #5b3a81, -0.8px 0 0 #5b3a81, 0 -0.8px 0 #5b3a81;
+}
+.button {
+  	border-radius: 999px;
+  	background-color: #2b2e4a;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 11px 18px;
+  	cursor: pointer;
+}
+.property-1default {
+  	position: absolute;
+  	top: 20px;
+  	left: 20px;
+  	width: 187px;
+  	height: 62px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	cursor: pointer;
+}
+.small-button {
+  	position: absolute;
+  	top: 1px;
+  	left: 1218px;
+  	border-radius: 5px;
+  	width: 209px;
+  	height: 82px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #fefcff;
+  	font-family: 'Roboto Slab';
+}
+.about-this-project {
+  	position: absolute;
+  	top: 133px;
+  	left: 96px;
+  	font-size: 40px;
+  	font-weight: 900;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1262px;
+  	height: 98px;
+}
+.this-website-is-a-project-by-n {
+  	margin: 0;
+}
+.e1350830unusedu {
+  	text-decoration: underline;
+}
+.this-website-is-container1 {
+  	width: 100%;
+}
+.this-website-is-container {
+  	position: absolute;
+  	top: 226px;
+  	left: 105px;
+  	font-size: 24px;
+  	font-family: 'Roboto Slab';
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 1235px;
+  	height: 223px;
+}
+.user-manual {
+  	position: absolute;
+  	top: 1317px;
+  	left: 105px;
+  	font-weight: 900;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 339px;
+  	height: 60px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.management-plan {
+  	position: absolute;
+  	top: 1669px;
+  	left: 105px;
+  	font-weight: 900;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 510px;
+  	height: 60px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.interact-with-visual {
+  	font-weight: 600;
+  	font-family: 'Roboto Slab';
+}
+.share-experiences-and {
+  	font-family: 'Roboto Slab';
+}
+.provide-insights-on-nighttime {
+  	margin-bottom: 0px;
+}
+.interact-with-visual-maps-exp {
+  	margin: 0;
+  	font-size: inherit;
+  	padding-left: 32px;
+}
+.this-website-is-container2 {
+  	position: absolute;
+  	top: 1402px;
+  	left: 102px;
+  	font-size: 24px;
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 1235px;
+  	font-family: 'Roboto Slab';
+}
+.as-a-student-project-this-web {
+  	margin: 0;
+  	font-family: inherit;
+  	font-size: inherit;
+  	padding-left: 32px;
+}
+.as-a-student-container {
+  	position: absolute;
+  	top: 1750px;
+  	left: 96px;
+  	font-size: 24px;
+  	font-family: 'Roboto Slab';
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 1235px;
+}
+.abouthtml-item {
+  	position: absolute;
+  	top: 2250px;
+  	left: 0px;
+  	background-color: #010101;
+  	width: 1440px;
+  	height: 100px;
+}
+.a-project-by-container {
+  	position: absolute;
+  	top: 2257px;
+  	left: 351px;
+  	font-size: 16px;
+  	display: flex;
+  	align-items: center;
+  	width: 737px;
+  	height: 75px;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 132px;
+  	height: 40px;
+}
+.back-to-top {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 132px;
+  	height: 40px;
+}
+.vector-parent {
+  	position: absolute;
+  	top: 2148px;
+  	left: 1208px;
+  	width: 132px;
+  	height: 40px;
+  	cursor: pointer;
+  	font-size: 20px;
+  	color: #f0f5ff;
+}
+.research-data {
+  	position: absolute;
+  	top: 482px;
+  	left: 105px;
+  	font-weight: 900;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 339px;
+  	height: 60px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.the-data-used-container {
+  	position: absolute;
+  	top: 523px;
+  	left: 111px;
+  	font-size: 24px;
+  	font-family: 'Roboto Slab';
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 727px;
+  	height: 404px;
+}
+.research-methodology {
+  	position: absolute;
+  	top: 924px;
+  	left: 105px;
+  	font-weight: 900;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 339px;
+  	height: 60px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.to-develop-the-container {
+  	position: absolute;
+  	top: 965px;
+  	left: 111px;
+  	font-size: 24px;
+  	font-family: 'Roboto Slab';
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 733px;
+  	height: 328px;
+}
+.dataandmetho-icon {
+  	position: absolute;
+  	top: 482px;
+  	left: 894px;
+  	width: 467px;
+  	height: 835px;
+  	object-fit: cover;
+}
+.abouthtml {
+  	width: 100%;
+  	position: relative;
+  	background-color: #05142c;
+  	height: 2350px;
+  	text-align: center;
+  	font-size: 32px;
+  	color: #fff;
+  	font-family: 'Roboto Condensed';
+}
+
