@@ -1,0 +1,323 @@
+.polygon-generator-icon {
+  	position: absolute;
+  	top: 90px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 3010px;
+  	object-fit: contain;
+}
+.indexhtml-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #010101;
+  	width: 1440px;
+  	height: 100px;
+}
+.pic-1-icon {
+  	position: absolute;
+  	top: 4px;
+  	left: 21px;
+  	width: 152px;
+  	height: 86px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.night-economy-trends-in-london {
+  	margin: 0;
+}
+.slide-through-time {
+  	background: linear-gradient(90deg, #ffd2d0, #fbc5ff 68.27%, #edeeff);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.night-economy-trends-container1 {
+  	width: 100%;
+}
+.night-economy-trends-container {
+  	position: absolute;
+  	top: 1940px;
+  	left: 91px;
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 1249px;
+  	height: 244px;
+  	font-family: 'Roboto Slab';
+}
+.click-on-a {
+  	background: linear-gradient(90deg, #ffe0f4, #c5acff);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.crime-trends-in-container {
+  	position: absolute;
+  	top: 2799px;
+  	left: 111px;
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 1229px;
+  	height: 192px;
+  	font-family: 'Roboto Slab';
+}
+.londons-nightlife-is {
+  	background: linear-gradient(90deg, #e5ccff, #ff83f1);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.londons-nightlife-is-buzzing {
+  	margin: 0;
+  	font-size: 40px;
+  	font-family: 'Roboto Condensed';
+}
+.londons-nightlife-is-container {
+  	position: absolute;
+  	top: 1049px;
+  	left: 105px;
+  	display: flex;
+  	align-items: center;
+  	width: 1229px;
+  	height: 282px;
+  	font-family: 'Roboto Slab';
+}
+.indexhtml-item {
+  	position: absolute;
+  	top: 3100px;
+  	left: 0px;
+  	background-color: #010101;
+  	width: 100%;
+  	height: 100px;
+}
+.a-project-by-container {
+  	position: absolute;
+  	top: 3112px;
+  	left: 351px;
+  	font-size: 16px;
+  	display: flex;
+  	align-items: center;
+  	width: 737px;
+  	height: 75px;
+}
+.group-child {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 132px;
+	height: 40px;
+}
+.back-to-top {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 132px;
+	height: 40px;
+	white-space: nowrap;
+}
+.vector-parent {
+	position: absolute;
+	top: 3048px;
+	left: 1208px;
+	width: 132px;
+	height: 40px;
+	cursor: pointer;
+	font-size: 20px;
+	color: #f0f5ff;
+}
+.vitality-equity {
+  	position: absolute;
+  	top: 27px;
+  	left: 670px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 245px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.home {
+  	position: absolute;
+  	top: 27px;
+  	left: 546px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.about {
+  	position: absolute;
+  	top: 27px;
+  	left: 1128px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.safety-risk {
+  	position: absolute;
+  	top: 27px;
+  	left: 918px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	color: #eceef9;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 196px;
+  	height: 51px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	cursor: pointer;
+}
+.feedback {
+  	position: relative;
+  	line-height: 100%;
+  	text-shadow: 0.8px 0 0 #5b3a81, 0 0.8px 0 #5b3a81, -0.8px 0 0 #5b3a81, 0 -0.8px 0 #5b3a81;
+}
+.button {
+  	border-radius: 999px;
+  	background-color: #2b2e4a;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 11px 18px;
+}
+.property-1default {
+  	position: absolute;
+  	top: 20px;
+  	left: 20px;
+  	width: 187px;
+  	height: 62px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	cursor: pointer;
+}
+.small-button {
+  	position: absolute;
+  	top: 1px;
+  	left: 1218px;
+  	border-radius: 5px;
+  	width: 209px;
+  	height: 82px;
+  	overflow: hidden;
+  	text-align: left;
+  	color: #fefcff;
+  	font-family: 'Roboto Slab';
+}
+.indexhtml-inner {
+  	position: absolute;
+  	top: 874px;
+  	left: 0px;
+  	background-color: #2b2e4a;
+  	width: 1440px;
+  	height: 93px;
+  	cursor: pointer;
+}
+.lets-explore {
+  	position: absolute;
+  	top: 891px;
+  	left: 541px;
+  	font-size: 48px;
+  	font-weight: 900;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 349px;
+  	height: 60px;
+}
+.crimetrends-icon {
+  	position: absolute;
+  	top: 2261px;
+  	left: 76px;
+  	width: 1300px;
+  	height: 500px;
+  	object-fit: cover;
+}
+.button1 {
+  	position: absolute;
+  	top: 2715px;
+  	left: 1135px;
+  	border-radius: 999px;
+  	background-color: #2b2e4a;
+  	width: 235px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 11px 18px;
+  	box-sizing: border-box;
+  	cursor: pointer;
+  	text-align: left;
+  	color: #fefcff;
+  	font-family: 'Roboto Slab';
+}
+.venuetrend-icon {
+  	position: absolute;
+  	top: 1367px;
+  	left: 70px;
+  	width: 1300px;
+  	height: 550px;
+  	object-fit: cover;
+}
+.button2 {
+  	position: absolute;
+  	top: 1871px;
+  	left: 1135px;
+  	border-radius: 999px;
+  	background-color: #2b2e4a;
+  	width: 235px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 11px 18px;
+  	box-sizing: border-box;
+  	cursor: pointer;
+  	text-align: left;
+  	color: #fefcff;
+  	font-family: 'Roboto Slab';
+}
+.london-neon-final-1-icon {
+  	position: absolute;
+  	top: 100px;
+  	left: 122px;
+  	width: 1318px;
+  	height: 774px;
+  	object-fit: cover;
+}
+.indexhtml {
+  	width: 100%;
+  	position: relative;
+  	background-color: #010101;
+  	height: 3200px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #fff;
+  	font-family: 'Roboto Condensed';
+}
+
